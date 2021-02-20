@@ -1,4 +1,4 @@
-## Atividades realizadas enquanto estive serviço do Ministério da Cidadania
+## Atividades realizadas enquanto estive a serviço do Ministério da Cidadania
 
 ### Importante
 
