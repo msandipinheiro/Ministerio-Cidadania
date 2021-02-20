@@ -2,5 +2,5 @@
 
 ### Importante
 
-- Todos os códigos aqui publicados fazem parte dos meus serviços prestados ao Ministério da Cidadania. 
-- Em hipótese algum são códigos que corrompem, infringem ou comprometem ambas as partes!
+- Todos os códigos e documentos aqui publicados fazem parte dos meus serviços prestados ao Ministério da Cidadania. 
+- Em hipótese algum tais arquivos corrompem, infringem ou comprometem ambas as partes!
