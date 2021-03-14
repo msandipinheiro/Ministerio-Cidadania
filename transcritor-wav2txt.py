@@ -3,6 +3,7 @@
 """
 Criado: 22/11/2019
 Autor: Marcello Sandi Pinheiro
+Ref.: https://www.analyticsvidhya.com/blog/2021/01/introduction-to-automatic-speech-recognition-and-natural-language-processing/
 """
 from __future__ import print_function
 import datetime
